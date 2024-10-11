@@ -12,10 +12,10 @@
 <h2>Instalação</h2>
 <ol>
     <li>Clone o repositório:
-        <pre><code>git clone https://github.com/seu_usuario/nome_do_repositorio.git</code></pre>
+        <pre><code>git clone https://github.com/sucloudflare/nextauth-facebook/tree/main</code></pre>
     </li>
     <li>Navegue até o diretório do projeto:
-        <pre><code>cd nome_do_repositorio</code></pre>
+        <pre><code>cd nextauth-facebook</code></pre>
     </li>
     <li>Instale as dependências:
         <pre><code>npm install</code></pre>
